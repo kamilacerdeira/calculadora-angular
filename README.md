@@ -1,5 +1,6 @@
 # Calculadora
 
+![calculadora](https://user-images.githubusercontent.com/66564811/130631595-b720a24c-da5b-4477-845d-2f463ff2f2de.gif)
 ---
 
 Feito por Kamila Cerdeira 👋🏽 Entre em contato!
